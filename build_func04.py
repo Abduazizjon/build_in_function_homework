@@ -9,3 +9,11 @@ def main(n):
         float: the value of the expression
     """
     return
+a = 2
+n = 4
+b = 3
+javob = ((a+n)/b)**2
+v = ((a+n)/2)
+x = pow(2, 2)
+
+print(javob)
