@@ -8,4 +8,12 @@ def main(n):
     Returns:
         float: the value of the expression
     """
-    return
+    return 
+
+n = 3.5
+b = 3
+javob = (b*((n+1)**2))
+
+a = pow(4.5,2)
+javob2 = a*b
+print(javob2)
