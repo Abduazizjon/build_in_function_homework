@@ -9,3 +9,5 @@ def main(a):
         float: The result to 2 decimal places
     """
     return
+a = 3.456
+print(round(a,2))
