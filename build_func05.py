@@ -10,3 +10,10 @@ def main(n, x):
         int: the value of the expression
     """
     return
+n = 3
+x = 6
+x1 = pow(x,n)
+x2 = pow(n,x)
+
+javob = (pow(x,n)+pow(n,x))
+print(javob)
